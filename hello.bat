@@ -1,1 +1,1 @@
-Hello from batch file
+echo "Hello from batch file"
